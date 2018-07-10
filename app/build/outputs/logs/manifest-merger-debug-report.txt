@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e2970de4af1b516aa73ae1dfe690f1b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b077774c022a09121d0eb9c4454a70f4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6e522a3c2d47a79b08611d6ca7ad816a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\25f219b672e24a5444f35ffab80a9893\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a7c2b0c0d5e320a765072379bae7bc84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a7534a776026ba8dd43cc42df7c5e762\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\dab01f7dae7d936416677d8e9f1012ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\2559d9f0d67b3b80c1f9b8067493df0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\018987274053cfd7dd9406b710b88c57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1d344695888772de4b453c3b8b91117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\e5b81cebb103b865e06d551ae8c93316\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b97a594e1f63967766bcf2f09dbabd87\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\3eb639463a628cf53db9889b46759e9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c14e4147e9b1d7878957f34b3860a7c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4b657d573f20d111b91342f0c9515bc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\42c523606034e4660eabece84bae82ea\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25927bec56dd4edf4d954e66f729bde8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\e89bbb68d967a3ff296f74ec42c8f14e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e61394a0923615c19cbcfa0820ef3ff3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\334ad357978826c9ead4098a26589256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\2ed457a800cbbdca0e27b0376df902a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf7abc2d6c255fecaf97464188925844\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\acdf271c9fd49165ac434148d2cee1b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e66d197cc3b18fabe252137c48cf99e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\9beb9069bfd04d946d8df88203acc72c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+	package
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:1-61:12
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:6:22-67
+application
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:8:5-59:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b077774c022a09121d0eb9c4454a70f4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b077774c022a09121d0eb9c4454a70f4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\e89bbb68d967a3ff296f74ec42c8f14e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\e89bbb68d967a3ff296f74ec42c8f14e\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#in.codingninjas.envision.expensemanager.MainActivity
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#in.codingninjas.envision.expensemanager.ShowDetailsActivity
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:22:9-57
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:22:19-54
+activity#in.codingninjas.envision.expensemanager.EditExpenseActivity
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:23:19-54
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:text/plain
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:24:13-30:29
+action#android.intent.action.SEND
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:25:25-66
+data
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:27:17-55
+	android:mimeType
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:27:23-52
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:29:27-73
+activity#in.codingninjas.envision.expensemanager.SettingsActivity
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:32:9-54
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:32:19-51
+receiver#in.codingninjas.envision.expensemanager.SMSReceiver
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:34:9-41:20
+	android:enabled
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:35:13-40
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:38:13-40:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:39:25-79
+receiver#in.codingninjas.envision.expensemanager.AlarmReceiver
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:enabled
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:44:13-42
+receiver#in.codingninjas.envision.expensemanager.BootCompletedReceiver
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:49:9-56:20
+	android:enabled
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:51:13-35
+	android:exported
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:50:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:53:13-55:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:54:17-79
+	android:name
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml:54:25-76
+uses-sdk
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e2970de4af1b516aa73ae1dfe690f1b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\e2970de4af1b516aa73ae1dfe690f1b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b077774c022a09121d0eb9c4454a70f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b077774c022a09121d0eb9c4454a70f4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6e522a3c2d47a79b08611d6ca7ad816a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\6e522a3c2d47a79b08611d6ca7ad816a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\25f219b672e24a5444f35ffab80a9893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\25f219b672e24a5444f35ffab80a9893\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a7c2b0c0d5e320a765072379bae7bc84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\a7c2b0c0d5e320a765072379bae7bc84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a7534a776026ba8dd43cc42df7c5e762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\a7534a776026ba8dd43cc42df7c5e762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\dab01f7dae7d936416677d8e9f1012ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\dab01f7dae7d936416677d8e9f1012ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\2559d9f0d67b3b80c1f9b8067493df0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\2559d9f0d67b3b80c1f9b8067493df0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\018987274053cfd7dd9406b710b88c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\018987274053cfd7dd9406b710b88c57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1d344695888772de4b453c3b8b91117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\d1d344695888772de4b453c3b8b91117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\e5b81cebb103b865e06d551ae8c93316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\e5b81cebb103b865e06d551ae8c93316\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b97a594e1f63967766bcf2f09dbabd87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\b97a594e1f63967766bcf2f09dbabd87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\3eb639463a628cf53db9889b46759e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\3eb639463a628cf53db9889b46759e9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c14e4147e9b1d7878957f34b3860a7c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\c14e4147e9b1d7878957f34b3860a7c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4b657d573f20d111b91342f0c9515bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\4b657d573f20d111b91342f0c9515bc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\5de0f9926c9af8d8809a39b480ef7005\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\42c523606034e4660eabece84bae82ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\42c523606034e4660eabece84bae82ea\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25927bec56dd4edf4d954e66f729bde8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\25927bec56dd4edf4d954e66f729bde8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\e89bbb68d967a3ff296f74ec42c8f14e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\e89bbb68d967a3ff296f74ec42c8f14e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e61394a0923615c19cbcfa0820ef3ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e61394a0923615c19cbcfa0820ef3ff3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\334ad357978826c9ead4098a26589256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\334ad357978826c9ead4098a26589256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\2ed457a800cbbdca0e27b0376df902a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\2ed457a800cbbdca0e27b0376df902a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf7abc2d6c255fecaf97464188925844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\cf7abc2d6c255fecaf97464188925844\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\acdf271c9fd49165ac434148d2cee1b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\acdf271c9fd49165ac434148d2cee1b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e66d197cc3b18fabe252137c48cf99e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e66d197cc3b18fabe252137c48cf99e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\9beb9069bfd04d946d8df88203acc72c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\ADITI\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\9beb9069bfd04d946d8df88203acc72c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADITI\Documents\Android\Expense-Multi-View-List-Assignment-master\Expense-Multi-View-List-Assignment-master\app\src\main\AndroidManifest.xml
